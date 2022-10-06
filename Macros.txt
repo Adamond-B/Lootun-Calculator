@@ -1,0 +1,22 @@
+If you see the following warning at the top of the spreadsheet, it is because I have a Macro as part of the spreadsheet. 
+“Security Warning: Macros have been disabled.”
+
+Note: You do NOT have to click: “Enable Content”, if you don’t want to. The spreadsheet will still work.
+
+What is a Macro?
+The technical definition is: An automated input sequence that imitates keystrokes or mouse actions.
+
+What does that mean?
+It’s a programmable pattern, used to automatically do something when certain conditions are met.
+
+Do I need to allow the Macro to run to use the spreadsheet?
+No. It only makes part of the spreadsheet easier to use and helps you from accidently making invalid options by accident. 
+
+Can you give an example?
+Let’s say you pick Warrior as your class, and then choose Quick Slash as your default attack. Later you change your class to Mage. Doing this would show that your character is a Mage with the Default Skill Quick Slash, which isn’t an in-game combination, but would still be displayed and possibly calculated as so.
+
+So, what does the Macro do?
+Using the above example, when you switch your character’s class, the Macro will automatically change the default skill to blank. This lets you know to select a valid Default Skill.
+
+Does the Macro do anything else?
+Technically yes, but not really. It also blanks out information when other options are changed to prevent invalid combinations.
